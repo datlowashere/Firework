@@ -1,2 +1,2 @@
 ## Firework
-countdownt time, firework using p5.js
+countdown time, firework using p5.js
